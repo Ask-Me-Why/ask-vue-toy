@@ -1,0 +1,243 @@
+{
+    "slides": [
+        {
+            "id": "1",
+            "src": "http://ofopl9abq.bkt.clouddn.com/toy_slide_1.jpg",
+            "name": "缤纷时代",
+            "url": "20",
+            "type": "1"
+        },
+        {
+            "id": "3",
+            "src": "http://ofopl9abq.bkt.clouddn.com/toy_slide_1.jpg",
+            "name": "天啊",
+            "url": "10",
+            "type": "2"
+        },
+        {
+            "id": "2",
+            "src": "http://ofopl9abq.bkt.clouddn.com/2018caption.jpg",
+            "name": "哇哈哈",
+            "url": "15",
+            "type": "1"
+        }
+    ],
+    "category": [
+        {
+            "id": "1",
+            "type": "1",
+            "name": "天下第一",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第一",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试2",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第一2",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试3",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第一3",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "name": "天下第二",
+            "items": [
+                {
+                    "id": "1",
+                    "cover": "http://ofopl9abq.bkt.clouddn.com/10.jpg",
+                    "name": "测试",
+                    "price": 20,
+                    "market_price": 24,
+                    "detail": "我就是天下第二",
+                    "image_text": "<p>这是商品详情啊兄弟</p>",
+                    "stock": 100,
+                    "tag": [
+                        {
+                            "id": "1",
+                            "name": "可爱"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
